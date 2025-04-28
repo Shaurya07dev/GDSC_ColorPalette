@@ -56,6 +56,4 @@ Developed by Shaurya Kesarwani (RA2411026010989), First Year Student - CINTEL De
 
 ---
 
-## License
 
-This project is licensed under the MIT License.
