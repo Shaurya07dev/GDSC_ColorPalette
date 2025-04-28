@@ -13,13 +13,13 @@ A modern, interactive web app to create and customize color palettes for your de
 
 ### Screenshot
 
-![App Screenshot](media/screenshot.png)
+![App Screenshot](media/image1.png)
 
 ### Video Walkthrough
 
-https://github.com/yourusername/your-repo-name/raw/main/media/demo.mp4
+<video src="https://github.com/Shaurya07dev/GDSC_ColorPalette/raw/main/media/demo.mp4" controls width="700"></video>
 
-> _If the video does not play, [download it here](media/demo.mp4)._
+> _If the video does not play, [download it here](https://github.com/Shaurya07dev/GDSC_ColorPalette/raw/main/media/demo.mp4)._
 
 ## Technologies Used
 
@@ -30,8 +30,8 @@ https://github.com/yourusername/your-repo-name/raw/main/media/demo.mp4
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Shaurya07dev/GDSC_ColorPalette.git
+   cd GDSC_ColorPalette
    ```
 
 2. **Install dependencies:**
